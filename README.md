@@ -10,3 +10,6 @@ Preview: Displays the captured photo in a preview area on the web page immediate
 Download Option
 Responsive UI
 Error Handling
+
+Live Demo
+https://web-rtc-real-time-webcam-photo-booth.vercel.app
